@@ -1,0 +1,4 @@
+<?php
+$API_KEY = "2025351328:AAHKUlf4ZwamfKrDlEMclKfm08YTAnxVs0M";//YOUTOKEN
+$admin = "2014828678" ; //YOURID
+?>
